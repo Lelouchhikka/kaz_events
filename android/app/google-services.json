@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "728104648644",
+    "project_id": "kazevent-43ca4",
+    "storage_bucket": "kazevent-43ca4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728104648644:android:6a32279b5bb4508ffbee91",
+        "android_client_info": {
+          "package_name": "com.example.kaz_events"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728104648644-b9cpn40otmlb4q8i4m7pheos9ejk0f69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoI2_l4wUnbgccJ3dCqiBuH7WAegWl9A4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728104648644-b9cpn40otmlb4q8i4m7pheos9ejk0f69.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "728104648644-gnpj5tlk7h1i55l2n50lisru2d7f8boh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kazEvents"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
